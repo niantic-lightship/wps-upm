@@ -1,0 +1,33 @@
+{
+  "name": "com.nianticlabs.lightship.wps",
+  "displayName": "Niantic Lightship World Positioning System (WPS) AR Plugin",
+  "version": "3.4.0-2404081151",
+  "unity": "2021.3",
+  "description": "Provides experimental World Positioning capabilities for use with the Niantic Lightship platform.\n* Lightship is a trademark of Niantic Labs Inc., registered in the U.S. and other countries and regions.",
+  "keywords": [
+    "lightship",
+    "ar",
+    "vps",
+    "xr",
+    "reality",
+    "geo",
+    "geographic",
+    "wps",
+    "mirror world",
+    "niantic"
+  ],
+  "author": {
+    "name": "Niantic Labs, Inc",
+    "email": "support@lightship.dev",
+    "url": "https://lightship.dev/"
+  },
+  "dependencies": {
+    "com.nianticlabs.lightship": "3.4.0-2404081151",
+    "com.unity.xr.management": "4.0.1"
+  },
+  "documentationUrl": "https://lightship.dev/docs/ardk/",
+  "changelogUrl": "https://lightship.dev/docs/ardk/release_notes/release3.0/",
+  "licensesUrl": "https://lightship.dev/legal/terms",
+  "repository": {},
+  "samples": []
+}
