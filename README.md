@@ -20,6 +20,7 @@ The (World Positioning System) WPS UPM is the Unity package needed in order to u
 	- Click **Yes** to activate the new Input System Package for AR Foundation 5.0 (if prompted). 
 
 ## More Information on World Positioning System
+- [World Positioning System Feature Page](https://lightship.dev/docs/ardk/experimental/world_pose/)
 - [World Positioning System How-To Guide](https://lightship.dev/docs/ardk/how-to/ar/world_pose/)
 
 ## Support
