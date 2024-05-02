@@ -16,7 +16,7 @@ The (World Positioning System) WPS UPM is the Unity package needed in order to u
 	- [wps-upm](https://github.com/niantic-lightship/wps-upm/releases/latest)
 2. In your Unity project open the **Package Manager** by selection **Window > Package Manager**. 
 	- From the plus menu on the Package Manager tab, select **Add package from tarball...**
-	- Navigate to where you downloaded the WPS UPM, select the `.tgz` file you downloaded, and press **Open**. This will install the package in your project's **Packages** folder as the **Niantic Lightship AR Plugin** folder. 
+	- Navigate to where you downloaded the WPS UPM, select the `.tgz` file you downloaded, and press **Open**. This will install the package in your project's **Packages** folder as the **World Positioning System Plugin** folder. 
 	- Click **Yes** to activate the new Input System Package for AR Foundation 5.0 (if prompted). 
 
 ## More Information on World Positioning System
