@@ -1,3 +1,5 @@
+*Note: World Positioning System is currently an [experimental feature](https://lightship.dev/docs/ardk/experimental/). 
+
 ## Name
 wps-upm
 
