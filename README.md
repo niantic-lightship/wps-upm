@@ -1,4 +1,4 @@
-*Note: World Positioning System is currently an [experimental feature](https://lightship.dev/docs/ardk/experimental/). 
+*Note: World Positioning System is an [experimental feature](https://lightship.dev/docs/ardk/experimental/) for ARDK 3.4 - 3.8. For ARDK 3.9, WPS is built into the ARDK UPM. 
 
 ## Name
 wps-upm
